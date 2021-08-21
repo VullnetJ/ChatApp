@@ -1,4 +1,4 @@
-# chat
+# chat application created with flutter
 
 A new Flutter project.
 
